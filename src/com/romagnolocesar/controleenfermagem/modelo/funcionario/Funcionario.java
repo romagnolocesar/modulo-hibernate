@@ -33,7 +33,6 @@ public class Funcionario {
             cascade = CascadeType.ALL,
             mappedBy="funcionario_responsavel"
     )
-
     private List<Paciente> pacientes;
 
 
