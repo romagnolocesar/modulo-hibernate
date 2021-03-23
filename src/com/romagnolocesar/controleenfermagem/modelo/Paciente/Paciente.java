@@ -1,4 +1,4 @@
-package com.romagnolocesar.modulohibernate.modelo;
+package com.romagnolocesar.controleenfermagem.modelo.Paciente;
 
 import javax.persistence.*;
 import java.util.Calendar;

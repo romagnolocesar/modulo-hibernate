@@ -1,4 +1,7 @@
-package com.romagnolocesar.modulohibernate.modelo;
+package com.romagnolocesar.controleenfermagem.modelo;
+
+import com.romagnolocesar.controleenfermagem.modelo.Paciente.Paciente;
+import com.romagnolocesar.controleenfermagem.modelo.Paciente.TipoPaciente;
 
 import javax.persistence.Persistence;
 import javax.persistence.EntityManagerFactory;
